@@ -1,0 +1,6 @@
+@PrimaryKey_ForeignKeyRelationinEFCore_HostAddress = http://localhost:5267
+
+GET {{PrimaryKey_ForeignKeyRelationinEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
